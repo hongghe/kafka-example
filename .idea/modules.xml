@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kafkae-xample.iml" filepath="$PROJECT_DIR$/kafkae-xample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-example.iml" filepath="$PROJECT_DIR$/kafka-example.iml" />
     </modules>
   </component>
 </project>
