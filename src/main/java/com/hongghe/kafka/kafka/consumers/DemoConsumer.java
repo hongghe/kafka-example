@@ -1,4 +1,4 @@
-package com.hongghe.kafka.kafka.consumer;
+package com.hongghe.kafka.kafka.consumers;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.slf4j.Logger;

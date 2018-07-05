@@ -1,4 +1,4 @@
-package com.hongghe.kafka.kafka.producer;
+package com.hongghe.kafka.kafka.producers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
